@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  TableViewXibCell
+//  TableViewAndCell
 //
-//  Created by Daniel Washington Ignacio on 07/07/21.
+//  Created by Daniel Washington Ignacio on 06/07/21.
 //
 
 import UIKit
